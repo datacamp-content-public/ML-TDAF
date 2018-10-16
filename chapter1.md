@@ -76,7 +76,7 @@ xp: 50
 
 `@possible_answers`
 - A
-- [B (correct one)]
+- [B]
 - C
 - D
 
