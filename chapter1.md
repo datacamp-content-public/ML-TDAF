@@ -1,5 +1,5 @@
 ---
-title: 'Template Chapter 1'
+title: 'Chapter 1'
 description: 'This is a template chapter.'
 ---
 
@@ -69,19 +69,19 @@ key: 28519c0b7a
 xp: 50
 ```
 
-¿Cuál es el dato mayor?
+¿Cuál es el número mayor?
 
 `@hint`
 
 
 `@possible_answers`
-- A
-- [B]
-- C
-- D
+- 1
+- [5]
+- 2
+- 3
 
 `@feedback`
-- A is not correct
-- B is correct!
-- C is not correct
-- D is not correct
+- 1 is not correct
+- 5 is correct!
+- 2 is not correct
+- 3 is not correct
