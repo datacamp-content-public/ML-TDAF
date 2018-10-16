@@ -58,3 +58,23 @@ The Instructions that follow should be in bullet point form with clear guidance 
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 28519c0b7a
+xp: 50
+```
+
+¿Cuál es el dato mayor?
+
+`@hint`
+
+
+`@possible_answers`
+1,2,[3],4,5,6
+
+`@feedback`
