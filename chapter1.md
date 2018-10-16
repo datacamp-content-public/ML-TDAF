@@ -81,8 +81,6 @@ xp: 50
 - D
 
 `@feedback`
-`@feedback`
-
 - A is not correct
 - B is correct!
 - C is not correct
