@@ -75,6 +75,9 @@ xp: 50
 
 
 `@possible_answers`
-1,2,[3],4,5,6
+- A
+- [B (correct one)]
+- C
+- D
 
 `@feedback`
